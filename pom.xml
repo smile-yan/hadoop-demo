@@ -45,7 +45,7 @@
                     <archive>
                         <manifest>
                             <!-- 此处指定main方法入口的class -->
-                            <mainClass>cn.smileyan.hadoop.hdfs.HdfsBase</mainClass>
+                            <mainClass>cn.smileyan.hadoop.mapreduce.WordCount</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
